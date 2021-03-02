@@ -1,17 +1,17 @@
-# Put title of your app here
+# Adorable Puppies
 
 <!--- Replace <OWNER> with your Github Username and <REPOSITORY> with the name of your repository. -->
 <!--- You can find both of these in the url bar when you open your repository in github. -->
-![Workflow result](https://github.com/<OWNER>/<REPOSITORY>/workflows/Check/badge.svg)
+![Workflow result](https://github.com/VaibhavDev111/ComposeChallengeWeek_1/workflows/Check/badge.svg)
 
 
-## :scroll: Description
-<!--- Describe your app in one or two sentences -->
+## :scroll: This app will help you to obtain basic information about some Puppies
+<!--- This app will help you to obtain basic information about some Puppies -->
 
 
-## :bulb: Motivation and Context
+## :bulb: I enjoyed working with Compose and I proud of writing a UI in Jetpack Compose :)
 <!--- Optionally point readers to interesting parts of your submission. -->
-<!--- What are you especially proud of? -->
+<!--- I proud of writing a UI in Jetpack Compose :) -->
 
 
 ## :camera_flash: Screenshots
