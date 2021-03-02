@@ -1,0 +1,116 @@
+{
+  "puppies":[
+    {
+      "name":"Siberian Husky",
+      "heightMale":"21-23.5 inches",
+      "heightFemale":"20-22 inches",
+      "weightMale":"45-60 pound",
+      "weightFemale":"35-50 pounds",
+      "life":"12-14 years"
+    },
+    {
+      "name":"Poodle",
+      "heightMale":"Over 15 inches",
+      "heightFemale":"Over 12 inches",
+      "weightMale":"60-70 pounds",
+      "weightFemale":"40-50 pounds",
+      "life":"10-18 years"
+    },
+    {
+      "name":"Wirehaired Griffon",
+      "heightMale":"22-24 inches",
+      "heightFemale":"20-22 inches",
+      "weightMale":"50-70 pounds",
+      "weightFemale":"35-50 pounds",
+      "life":"12-15 years"
+    },
+    {
+      "name":"French Bulldog",
+      "heightMale":"11-13 inches",
+      "heightFemale":"11-13 inches",
+      "weightMale":"under 28 pounds",
+      "weightFemale":"under 26 pounds",
+      "life":"10-12 years"
+    },
+    {
+      "name":"American Hairless",
+      "heightMale":"12-16 inches",
+      "heightFemale":"11-14 inches",
+      "weightMale":"12-16 pounds",
+      "weightFemale":"11-14 pounds",
+      "life":"14-16 years"
+    },
+    {
+      "name":"Welsh Springer Spaniel",
+      "heightMale":"18-19 inches",
+      "heightFemale":"17-18 inches",
+      "weightMale":"40-55 pounds",
+      "weightFemale":"35-50 pounds",
+      "life":"12-15 years"
+    },
+    {
+      "name":"Shih Tzu",
+      "heightMale":"9-10.5 inches",
+      "heightFemale":"8-9.5 inches",
+      "weightMale":"9-16 pounds",
+      "weightFemale":"8-15 pounds",
+      "life":"10-18 years"
+    },
+    {
+      "name":"Havanese",
+      "heightMale":"8.5-11.5 inches",
+      "heightFemale":"7.5-10.5 inches",
+      "weightMale":"7-13 pounds",
+      "weightFemale":"6-12 pounds",
+      "life":"14-16 years"
+    },
+    {
+      "name":"Irish Setter",
+      "heightMale":"27 inches",
+      "heightFemale":"25 inches",
+      "weightMale":"70 pounds",
+      "weightFemale":"60 pounds",
+      "life":"12-15 years"
+    },
+    {
+      "name":"Old English Sheepdog",
+      "heightMale":"22 inches & up",
+      "heightFemale":"21 inches & up",
+      "weightMale":"60-100 pounds",
+      "weightFemale":"55-95 pounds",
+      "life":"10-12 years"
+    },
+    {
+      "name":"Cane Corso",
+      "heightMale":"25-27.5 inches",
+      "heightFemale":"23.5-26 inches",
+      "weightMale":"Proportionate to height",
+      "weightFemale":"Proportionate to height",
+      "life":"9-12 years"
+    },
+    {
+      "name":"Dogue de Bordeaux",
+      "heightMale":"23.27 inches",
+      "heightFemale":"22.17 inches",
+      "weightMale":"110 pounds & up",
+      "weightFemale":"99 pounds & up",
+      "life":"5-8 years"
+    },
+    {
+      "name":"German Shorthaired",
+      "heightMale":"23-25 inches",
+      "heightFemale":"21-23 inches",
+      "weightMale":"55-70 pounds",
+      "weightFemale":"45-60 pounds",
+      "life":"10-12 years"
+    },
+    {
+      "name":"Pembroke Welsh Corgi",
+      "heightMale":"10-12 inches",
+      "heightFemale":"9-11 inches",
+      "weightMale":"up to 30 pounds",
+      "weightFemale":"up to 28 pounds",
+      "life":"12-13 years"
+    }
+  ]
+}

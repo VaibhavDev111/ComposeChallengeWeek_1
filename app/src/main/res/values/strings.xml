@@ -10,4 +10,22 @@
       the License.
       -->
     <string name="app_name">AndroidDevChallenge</string>
+
+    <string-array name="puppies_names">
+        <item>Siberian Husky</item>
+        <item>Poodle</item>
+        <item>Wirehaired Griffon</item>
+        <item>French Bulldog</item>
+        <item>American Hairless</item>
+        <item>Welsh Springer Spaniel</item>
+        <item>Shih Tzu</item>
+        <item>Havanese</item>
+        <item>Irish Setter</item>
+        <item>Old English Sheepdog</item>
+        <item>Cane Corso</item>
+        <item>Dogue de Bordeaux</item>
+        <item>German Shorthaired</item>
+        <item>Pembroke Welsh Corgi</item>
+    </string-array>
+
 </resources>
